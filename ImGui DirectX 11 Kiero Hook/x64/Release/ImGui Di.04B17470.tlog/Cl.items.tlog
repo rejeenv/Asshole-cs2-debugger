@@ -1,0 +1,14 @@
+C:\Users\brawl\Desktop\COMET\debugger\ImGui DirectX 11 Kiero Hook\src\cheat.cpp;C:\Users\brawl\Desktop\COMET\debugger\ImGui DirectX 11 Kiero Hook\x64\Release\cheat.obj
+C:\Users\brawl\Desktop\COMET\debugger\ImGui DirectX 11 Kiero Hook\imgui\imgui.cpp;C:\Users\brawl\Desktop\COMET\debugger\ImGui DirectX 11 Kiero Hook\x64\Release\imgui.obj
+C:\Users\brawl\Desktop\COMET\debugger\ImGui DirectX 11 Kiero Hook\imgui\imgui_demo.cpp;C:\Users\brawl\Desktop\COMET\debugger\ImGui DirectX 11 Kiero Hook\x64\Release\imgui_demo.obj
+C:\Users\brawl\Desktop\COMET\debugger\ImGui DirectX 11 Kiero Hook\imgui\imgui_draw.cpp;C:\Users\brawl\Desktop\COMET\debugger\ImGui DirectX 11 Kiero Hook\x64\Release\imgui_draw.obj
+C:\Users\brawl\Desktop\COMET\debugger\ImGui DirectX 11 Kiero Hook\imgui\imgui_impl_dx11.cpp;C:\Users\brawl\Desktop\COMET\debugger\ImGui DirectX 11 Kiero Hook\x64\Release\imgui_impl_dx11.obj
+C:\Users\brawl\Desktop\COMET\debugger\ImGui DirectX 11 Kiero Hook\imgui\imgui_impl_win32.cpp;C:\Users\brawl\Desktop\COMET\debugger\ImGui DirectX 11 Kiero Hook\x64\Release\imgui_impl_win32.obj
+C:\Users\brawl\Desktop\COMET\debugger\ImGui DirectX 11 Kiero Hook\imgui\imgui_widgets.cpp;C:\Users\brawl\Desktop\COMET\debugger\ImGui DirectX 11 Kiero Hook\x64\Release\imgui_widgets.obj
+C:\Users\brawl\Desktop\COMET\debugger\ImGui DirectX 11 Kiero Hook\kiero\kiero.cpp;C:\Users\brawl\Desktop\COMET\debugger\ImGui DirectX 11 Kiero Hook\x64\Release\kiero.obj
+C:\Users\brawl\Desktop\COMET\debugger\ImGui DirectX 11 Kiero Hook\kiero\minhook\src\buffer.c;C:\Users\brawl\Desktop\COMET\debugger\ImGui DirectX 11 Kiero Hook\x64\Release\buffer.obj
+C:\Users\brawl\Desktop\COMET\debugger\ImGui DirectX 11 Kiero Hook\kiero\minhook\src\hde\hde32.c;C:\Users\brawl\Desktop\COMET\debugger\ImGui DirectX 11 Kiero Hook\x64\Release\hde32.obj
+C:\Users\brawl\Desktop\COMET\debugger\ImGui DirectX 11 Kiero Hook\kiero\minhook\src\hde\hde64.c;C:\Users\brawl\Desktop\COMET\debugger\ImGui DirectX 11 Kiero Hook\x64\Release\hde64.obj
+C:\Users\brawl\Desktop\COMET\debugger\ImGui DirectX 11 Kiero Hook\kiero\minhook\src\hook.c;C:\Users\brawl\Desktop\COMET\debugger\ImGui DirectX 11 Kiero Hook\x64\Release\hook.obj
+C:\Users\brawl\Desktop\COMET\debugger\ImGui DirectX 11 Kiero Hook\kiero\minhook\src\trampoline.c;C:\Users\brawl\Desktop\COMET\debugger\ImGui DirectX 11 Kiero Hook\x64\Release\trampoline.obj
+C:\Users\brawl\Desktop\COMET\debugger\ImGui DirectX 11 Kiero Hook\main.cpp;C:\Users\brawl\Desktop\COMET\debugger\ImGui DirectX 11 Kiero Hook\x64\Release\main.obj
